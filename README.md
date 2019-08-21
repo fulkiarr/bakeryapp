@@ -25,8 +25,9 @@ Enjoy :)
 ## Configuration
 
 ### Connection configuration
-1. Change connection config from `config/Connection.php`,
-2. Set your mysql server configuration on `$con = mysqli_connect("127.0.0.1","root","your_password","bakery_app");`, change `"root"` into your user mysql and `"your_password"` into your mysql password.
+1. Change connection config on `config/Connection.php`,
+2. Set your mysql server configuration on 
+ `$con = mysqli_connect("127.0.0.1","root","your_password","bakery_app");`, change `"root"` into your user mysql and `"your_password"` into your mysql password.
 
 ### Mysql User Settings
 1. Go to phpmyadmin (phpmyadmin only),

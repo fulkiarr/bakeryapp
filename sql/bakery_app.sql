@@ -107,7 +107,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `fullname`) VALUES
-(1, 'xshot51', 'fbb58df7bb7e91bfeffcb28233f2be0e', 'Admin');
+(1, 'xshot51', 'your_password_with_md5', 'Admin');
 
 --
 -- Indexes for dumped tables

@@ -7,7 +7,7 @@ require "config/Connection.php";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Pemesanan Makanan - BakeryKing</title>
+    <title>Aplikasi Order Makanan - BakeryKing</title>
 
 	<link rel="stylesheet" href="assets/css/linearicons.css">
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css">

@@ -29,7 +29,7 @@ Enjoy :)
 2. Set your mysql server configuration on `$con = mysqli_connect("127.0.0.1","root","your_password","bakery_app");`, change `"root"` into your user mysql and `"your_password"` into your mysql password.
 
 ### Mysql User Settings
-1. Go to phpmyadin or mysql terminal,
+1. Go to phpmyadmin (phpmyadmin only),
 2. Click on bakery_app database,
 3. Open users table, and then click the pencil icon on line the user field.
 4. Change into your username and password what ever you want.

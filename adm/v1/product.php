@@ -57,7 +57,7 @@ if(isset($_POST['update']))
     <ul class="navbar-nav mr-auto">
     </ul>
     <form class="form-inline navbar-nav my-2 my-lg-0">
-        <a href="logout.php" class="nav-link">Welcome : <?php echo $_SESSION['user'] ?></a>
+        <a class="nav-link">Welcome : <?php echo $_SESSION['user'] ?></a>
     </form>
   </div>
 </nav>
